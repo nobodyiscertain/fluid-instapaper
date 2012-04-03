@@ -1,11 +1,11 @@
 Fluid Instapaper
 ================
 
-I sure love me some Instapaper and Fluid, but I feel the Instapaper styles had grown a little stale.
+I sure love me some Instapaper and Fluid, but I feel the Instapaper styles have grown a little stale.
 
-This is nothing more than a style sheet to just change a few things around. Simple as that.
+This is nothing more than a style sheet to just change a few things around.
 
-Here's what you have to look forward too:
+Here's what you have to look forward to:
 
 ![Final Product](https://img.skitch.com/20120403-tixpbnqxgtycdjdhpgdcyt4aku.jpg)
 
