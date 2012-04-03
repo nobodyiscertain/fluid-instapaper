@@ -1,5 +1,5 @@
 body {
-  background-color: none;
+  background-color: #FFF !important;
 }
 a {
   color: #3299BB !important;
@@ -39,10 +39,11 @@ a:hover {
 #header #userpanel {
   background: #424242 !important;
   color: #FFFFFF !important;
-  font-size: 12px !important;
+  font-size: 10px !important;
   padding: 10px !important;
   margin-top: 0 !important;
-  display: block;
+  display: block !important;
+  text-transform: lowercase !important;
 }
 #userpanel a {
   color: #FFFFFF !important;
@@ -66,9 +67,9 @@ a:hover {
   background: #E9E9E9 !important;
   border-top: 1px solid #424242 !important;
   border-bottom: 1px solid #BCBCBC !important;
-  margin-bottom: 10px;
+  margin-bottom: 10px !important;
 }
-.tableViewCellFirst, #bookmark_list > div:first-child {
+.tableViewCellFirst, #bookmark_list > div:first-child, .tableViewCellLast, #bookmark_list > div:last-child {
   -webkit-border-radius: 0px !important;
   -moz-border-radius: 0px !important;
   border-radius: 0px !important;
@@ -80,16 +81,18 @@ a:hover {
   border: none !important;
 }
 .actionButton.archiveButton:hover {
-  background: #FF9900 !important;
+  background: #FF4400 !important;
   color: #FFF !important;
   border: none !important;
 }
 .actionButton {
   background: #424242 !important;
   color: #FFF !important;
+  border: none !important;
 }
 .actionButton:hover {
   background: #3299BB !important;
+  text-decoration: none !important;
 }
 #footer {
   display: none !important;
